@@ -37,7 +37,7 @@ Labs (15%), Assignments (45%), Project (40%)
 | Oct 19 |  | Putting it all together: Todo App I and II  |  |  Group Project Part 1 due<br />Group Project Part 2 assigned |
 | Oct 26 | [Internet Fundamentals I](https://kayashaolu.github.io/webarch/html/Class%20Prep%205%20-%20Internet%20Fundamentals%20I.html) | Nuts and Bolts: [URL's](https://kayashaolu.github.io/webarch/html/Lecture%209%20-%20Nuts%20and%20Bolts:%20URL's.html) and [HTTP](https://kayashaolu.github.io/webarch/html/Lecture%2010%20-%20Nuts%20and%20Bolts:%20HTTP.html) | [Lab: Using the terminal to browse the web](https://github.com/kayashaolu/webarch-lab-5)<br />  |Assignment 2 due<br />Assignment 3 assigned |
 | Nov 2 |  [What is an API?](https://kayashaolu.github.io/webarch/html/Class%20Prep%209%20-%20What%20is%20an%20API%3F.html) | [API's](https://kayashaolu.github.io/webarch/html/Lecture%2017%20-%20API.html) and Storage Systems as a Service | | |
-| Nov 9 |  | Data Modeling and Persistence in the Frontend  |  | |
+| Nov 9 | JSON Data Stores | Data Modeling and Persistence in the Frontend  |  | |
 | Nov 16 |  |  Putting it all together: Todo App III and IV   | | |
 | Nov 23 | | Academic Holiday | | Assignment 3 due |
 | Nov 30 | | Presentation Prep | Work on Project | |
