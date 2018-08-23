@@ -19,7 +19,7 @@ Labs (15%), Assignments (45%), Project (40%)
  - Office hours available upon request via Google Hangout
 
 ## GSI
- - TBD
+ - Birinder Singh Bhatia <bir_singh@berkeley.edu>
  - Office hours: TBD
 
 # Syllabus
