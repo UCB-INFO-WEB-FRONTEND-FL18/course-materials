@@ -32,8 +32,8 @@ Labs (15%), Assignments (45%), Project (40%)
 | Sep 14 | [HTML Forms: putting it all together](https://kayashaolu.github.io/webarch/html/Class%20Prep%204%20-%20HTML%20Forms:%20putting%20it%20all%20together.html) | [HTML Forms](https://kayashaolu.github.io/webarch/html/Lecture%207%20-%20HTML%20Forms.html) and [JavaScript and the DOM](https://kayashaolu.github.io/webarch/html/Lecture%208%20-%20JavaScript%20and%20the%20DOM.html) | [Lab 4: Fun with Forms](https://github.com/kayashaolu/webarch-lab-4)<br />| |
 | Sep 21 | Lets learn some modern JavaScript | Modern JavaScript I and II | | |
 | Sep 28 | What is this React Hype?  | Why JavaScript Frameworks and Introduction to React  |  |Assignment 1 due<br /> Assignment 2 assigned<br /> |
-| Oct 5 | Learn React | React Fundamentals I and II | <br /> | |
-| Oct 12 | Learn Redux | React and Redux and More on Redux |  |  Group Project Part 1 assigned<br /> |
+| Oct 5 | React Primer I | React Fundamentals I and II | <br /> | |
+| Oct 12 | React Primer II  | Design Patterns and App Design Best Practices |  |  Group Project Part 1 assigned<br /> |
 | Oct 19 |  | Putting it all together: Todo App I and II  |  |  Group Project Part 1 due<br />Group Project Part 2 assigned |
 | Oct 26 | [Internet Fundamentals I](https://kayashaolu.github.io/webarch/html/Class%20Prep%205%20-%20Internet%20Fundamentals%20I.html) | Nuts and Bolts: [URL's](https://kayashaolu.github.io/webarch/html/Lecture%209%20-%20Nuts%20and%20Bolts:%20URL's.html) and [HTTP](https://kayashaolu.github.io/webarch/html/Lecture%2010%20-%20Nuts%20and%20Bolts:%20HTTP.html) | [Lab: Using the terminal to browse the web](https://github.com/kayashaolu/webarch-lab-5)<br />  |Assignment 2 due<br />Assignment 3 assigned |
 | Nov 2 |  [What is an API?](https://kayashaolu.github.io/webarch/html/Class%20Prep%209%20-%20What%20is%20an%20API%3F.html) | [API's](https://kayashaolu.github.io/webarch/html/Lecture%2017%20-%20API.html) and Storage Systems as a Service | | |
