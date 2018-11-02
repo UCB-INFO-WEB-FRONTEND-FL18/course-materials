@@ -36,8 +36,8 @@ Labs (15%), Assignments (45%), Project (40%)
 | Oct 12 | [React Primer II](https://github.com/kayashaolu/webarch/blob/master/md/w-react-primer-2.md) | [React Fundamentals III](https://kayashaolu.github.io/webarch/html/l-react-fundamentals-3.html) and [IV](https://kayashaolu.github.io/webarch/html/l-react-fundamentals-4.html) | [Lab 6: Play with React State](https://github.com/kayashaolu/lab-play-with-react-state)<br />[**Start Lab**](https://classroom.github.com/a/iVGVC8St) | [Group Project Part 1 assigned](https://github.com/kayashaolu/project)<br />[**Start Project**](https://classroom.github.com/g/1_Ymi_Sk) |
 | Oct 19 | [Internet Fundamentals I](https://github.com/kayashaolu/webarch/blob/master/md/w-internet-fundamentals-1.md) |  Nuts and Bolts: [URL's](https://kayashaolu.github.io/webarch/html/l-nuts-and-bolts-urls.html) and [HTTP](https://kayashaolu.github.io/webarch/html/l-nuts-and-bolts-http.html) | [Lab 7: Using the terminal to browse the web](https://github.com/kayashaolu/lab-browse-web-with-terminal)<br />[**Start Lab**](https://classroom.github.com/a/BAW_tBAq)  | Group Project Part 1 due<br />[Group Project Part 2 assigned](https://github.com/kayashaolu/project) |
 | Oct 26 |  | Workshop: Todo MVC Application I  |  |   |
-| Nov 2 | React Forms | Controlled Components |  |Assignment 2 due<br />Assignment 3 assigned |
-| Nov 9 |  What is an API? | API's and Storage Systems as a Service | | |
+| Nov 2 | | [API's](https://kayashaolu.github.io/webarch/html/l-using-api.html) and [React Forms](https://kayashaolu.github.io/webarch/html/l-react-forms.html) | [Lab: Create Weather Form](https://github.com/kayashaolu/lab-create-weather-form)<br />[**Start Lab**]() | |
+| Nov 9 | Saving Frontend Data | REST and Storage Systems as a Service | | Assignment 2 due<br />Assignment 3 assigned |
 | Nov 16 | JSON Data Stores | Data Modeling and Persistence in the Frontend  |  | |
 | Nov 23 | | Academic Holiday | | |
 | Nov 30 |  |  Workshop: Todo MVC Application II   | | Assignment 3 due  |
