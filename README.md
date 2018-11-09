@@ -37,7 +37,7 @@ Labs (15%), Assignments (45%), Project (40%)
 | Oct 19 | [Internet Fundamentals I](https://github.com/kayashaolu/webarch/blob/master/md/w-internet-fundamentals-1.md) |  Nuts and Bolts: [URL's](https://kayashaolu.github.io/webarch/html/l-nuts-and-bolts-urls.html) and [HTTP](https://kayashaolu.github.io/webarch/html/l-nuts-and-bolts-http.html) | [Lab 7: Using the terminal to browse the web](https://github.com/kayashaolu/lab-browse-web-with-terminal)<br />[**Start Lab**](https://classroom.github.com/a/BAW_tBAq)  | Group Project Part 1 due<br />[Group Project Part 2 assigned](https://github.com/kayashaolu/project) |
 | Oct 26 |  | Workshop: Todo MVC Application I  |  |   |
 | Nov 2 | | [API's](https://kayashaolu.github.io/webarch/html/l-using-api.html) and [React Forms](https://kayashaolu.github.io/webarch/html/l-react-forms.html) | [Lab: Create Weather Form](https://github.com/kayashaolu/lab-create-weather-form)<br />[**Start Lab**](https://classroom.github.com/a/8cjCQsRq) | |
-| Nov 9 | Saving Frontend Data | REST and Storage Systems as a Service | | Assignment 2 due<br />Assignment 3 assigned |
+| Nov 9 | | [REST](https://kayashaolu.github.io/webarch/html/l-rest.html) and Storage Systems as a Service | [Lab 9: Connect to Remote database](https://github.com/kayashaolu/lab-connect-to-remote-database)<br />[**Start Lab**](https://classroom.github.com/a/gZ2bT7kH)  | Assignment 2 due<br />[Assignment 3 assigned](https://github.com/kayashaolu/assign-persist-to-database)<br />[**Start Lab**](https://classroom.github.com/a/bpuvYO9f) |
 | Nov 16 |  | Workshop: Todo MVC Application II   |  | |
 | Nov 23 | | Academic Holiday | | |
 | Nov 30 |  |  Group Presentations (class 11 am - 2 pm)  | |  |
